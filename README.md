@@ -1,10 +1,10 @@
 # Utility-Alias
 
 # Description
- Allows you to set and use aliases for chat users
+ Allows you to set and use aliases for chat users. Can be used with chat messages, redeems and TTS for example.
 
 # Compatibility
-- Firebot 5.61.2+
+- Firebot 5.64.0+
 
 # Install
 + Download
@@ -14,7 +14,7 @@
 # Usage
 
 ## Requirements for Chat
-+ Must be in Firebot's user database
++ Chatter must be in Firebot's user database
 
 ## Streamer Info
 + Commands
